@@ -24,7 +24,7 @@
 
 -(void)show
 {
-    // 创建path
+    // 创建path123123
     UIBezierPath *path = [UIBezierPath bezierPath];
     // 添加路径[1条点(100,100)到点(200,100)的线段]到path
 //    [path moveToPoint:CGPointMake(100 , 100)];
